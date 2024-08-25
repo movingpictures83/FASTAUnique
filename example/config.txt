@@ -1,0 +1,2 @@
+Prefix plugins/FASTAUnique/example
+Plugin FASTAUnique inputfile input.fasta outputfile unique.fasta
